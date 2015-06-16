@@ -3,7 +3,6 @@
 ## Topics:
 
 A deeper introduction to Foundation classes
-- NSString, and string literals, and stringWithFormat
 - NSNumber and how it’s different from the C numerical types
 - NSArray
 - NSDictionary
